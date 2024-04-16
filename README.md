@@ -7,11 +7,9 @@ passionate about new experiences in the web world. Keen on self
 development with a strong desire to apply gained knowledges to solve 
 complex problems with the maximum efficiency.
 
-<br />
-
-### Skills
 ***
 
+## Skills
 💻 HTML, CSS, JavaScript <br />
 💨 Tailwind CSS, Bootstrap, Material-UI <br />
 <img height="21" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> TypeScript <br />
