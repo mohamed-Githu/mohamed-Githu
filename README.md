@@ -8,8 +8,6 @@ development with a strong desire to apply gained knowledges to solve
 complex problems with the maximum efficiency.
 
 <br />
-<br />
-
 
 ### Skills
 ***
